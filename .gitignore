@@ -2,3 +2,4 @@
 venv/
 ucpa_scrapper/password
 ucpa_scrapper.log
+/simple_scrapper/migrations/
